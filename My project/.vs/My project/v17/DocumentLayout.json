@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\workspace\\github\\unity-app5\\my project\\assets\\scenes\\common\\player_start\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scenes\\common\\player_start\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\workspace\\github\\unity-app5\\my project\\assets\\scenes\\common\\player\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\common\\player\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\workspace\\github\\unity-app5\\my project\\assets\\scenes\\common\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scenes\\common\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\assets\\scenes\\common\\player\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\common\\player\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player_start\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\common\\player_start\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\common\\player\\PlayerMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player\\Animation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\common\\player\\Animation.cs",
+              "ToolTip": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player\\Animation.cs",
+              "RelativeToolTip": "Assets\\Scenes\\common\\player\\Animation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:16:24.178Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\common\\player\\Move.cs",
+              "ToolTip": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player\\Move.cs",
+              "RelativeToolTip": "Assets\\Scenes\\common\\player\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:41:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player_start\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\common\\player_start\\PlayerMove.cs",
               "ToolTip": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player_start\\PlayerMove.cs",
               "RelativeToolTip": "Assets\\Scenes\\common\\player_start\\PlayerMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T08:16:12.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T08:16:12.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "C:\\WorkSpace\\GitHub\\Unity-app5\\My project\\Assets\\Scenes\\common\\player\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\common\\player\\PlayerMove.cs",
