@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - MainCharacter
   layers:
   - Default
   - TransparentFX
@@ -49,6 +50,9 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 2924407
+    locked: 0
+  - name: UI
+    uniqueID: 1616888091
     locked: 0
   m_RenderingLayers:
   - Default
