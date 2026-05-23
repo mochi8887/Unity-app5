@@ -19,3 +19,21 @@ UserSettings/
 *.booproj
 *.svd
 *.pdb
+
+# Visual Studio local cache
+.vs/
+*.suo
+*.tmp
+*.cache
+*.opendb
+*.vsidx
+
+# GitHub Copilot local cache
+CopilotIndices/
+
+# Visual Studio file index cache
+FileContentIndex/
+
+# Unity auto-generated caches (念のため)
+*.mdb
+*.db
