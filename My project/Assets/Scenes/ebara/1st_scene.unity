@@ -1319,9 +1319,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u60A9\u307F\u4E2D\u306E\u306D\u3053\u592A\u304F\u3093\u306B\u30D4\u30C3\u30BF\u30EA\u306A\u672C\u306F\u3069\u308C\uFF1F\n\n1. 
-    SOUL SOUP   -\u30E8\u30EB\u30B7\u30AB\n\n2.  \u6B7B\u306B\u304C\u3044\u3092\u6C42\u3081\u3066\u751F\u304D\u3066\u3044\u308B\u306E  
-    -RADWINPS\n\n3.  \u30A2\u30C9\u30EC\u30CA  -YOASOBI"
+  m_text: "\u60A9\u307F\u4E2D\u306E\u306D\u3053\u592A\u304F\u3093\u306B\u30D4\u30C3\u30BF\u30EA\u306A\u66F2\u306F\u3069\u308C\uFF1F\n\n1. 
+    SOUL SOUP   -official \u9AED\u56E3 dism\n\n2.  \u50D5\u306E\u3053\u3068   -Mrs.
+    GREEN APPLE\n\n3.  SAD SONG  -\u3061\u3083\u3093\u307F\u306A"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: da02a4393ad2c4ef09580ae3832c62dd, type: 2}
   m_sharedMaterial: {fileID: -3973332836502091248, guid: da02a4393ad2c4ef09580ae3832c62dd, type: 2}
@@ -4206,7 +4206,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1481471942}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ccb3a0fbf52494de2b46103c4fbabb7f, type: 3}
   m_Name: 
@@ -4263,7 +4263,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::RabbitTalkTriggerv2
   heartRoot: {fileID: 0}
   bubbleRoot: {fileID: 877528206}
-  messageRoot: {fileID: 0}
+  messageRoot: {fileID: 1643562053}
 --- !u!1 &1488037573
 GameObject:
   m_ObjectHideFlags: 0
@@ -4645,7 +4645,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1643562054
 RectTransform:
   m_ObjectHideFlags: 0
