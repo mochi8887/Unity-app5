@@ -25,6 +25,19 @@ public class Animation : MonoBehaviour
     {
         Vector2 moveInput = value.Get<Vector2>();
 
+        // ▼ 向きの反転処理を追加
+        if (moveInput.x < 0)
+        {
+            // 左向き
+            transform.localScale = new Vector3((float)-0.5, (float)0.5, (float)0.5);
+        }
+        else if (moveInput.x > 0)
+        {
+            // 右向き
+            transform.localScale = new Vector3((float)0.5, (float)0.5, (float)0.5);
+        }
+
+        // ▼ アニメーション切り替え
         if (moveInput.y > 0)
         {
             nowMode = upAnime;
@@ -41,7 +54,7 @@ public class Animation : MonoBehaviour
         if (nowMode != oldMode)
         {
             oldMode = nowMode;
-            animator.Play(nowMode); // アニメーション切り替え
+            animator.Play(nowMode);
         }
     }
 }
