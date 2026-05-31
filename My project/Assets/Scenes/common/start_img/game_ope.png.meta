@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: d3c9e59d72a7f9140b62145396f99f71
+guid: cfba1e4e2001ebc4eb3200b760a81de3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7426820854683231637
-    second: object_0
+      213: 2123751862959594088
+    second: game_ope_0
+  - first:
+      213: -3571827529515413273
+    second: game_ope_1
+  - first:
+      213: -8374964412781456934
+    second: game_ope_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: object_0
+      name: game_ope_0
       rect:
         serializedVersion: 2
-        x: 109
-        y: 9
-        width: 282
-        height: 482
+        x: 319
+        y: 89
+        width: 82
+        height: 92
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6a942a18c1aee890800000000000000
-      internalID: -7426820854683231637
+      spriteID: 86ad7c63115197d10800000000000000
+      internalID: 2123751862959594088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ope_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0d54849c15e6ec0800000000000000
+      internalID: -3571827529515413273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game_ope_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 89
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad19f913d3626cb80800000000000000
+      internalID: -8374964412781456934
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      object_0: -7426820854683231637
+      game_ope_0: 2123751862959594088
+      game_ope_1: -3571827529515413273
+      game_ope_2: -8374964412781456934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
